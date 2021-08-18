@@ -15,7 +15,8 @@ To add new pages to this documentation, create a new file markdown `.md` in the 
 
 In order for the file to display a title correctly, you must specify it in the document header.
 
-Documentation maintenained by Matou0014 & ErPiX.
 ```jsx
 # <name>
 ```
+
+Documentation maintenained by Matou0014 & ErPiX.
