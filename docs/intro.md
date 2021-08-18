@@ -18,5 +18,6 @@ In order for the file to display a title correctly, you must specify it in the d
 ```jsx
 # <name>
 ```
+:::
 
 Documentation maintenained by Matou0014 & ErPiX.
