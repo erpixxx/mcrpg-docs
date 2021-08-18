@@ -9,7 +9,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'static/img/ExvoidNetworkPrefix.svg',
+  favicon: '/img/ExvoidNetworkPrefix.svg',
   organizationName: 'ExvoidNet', // Usually your GitHub org/user name.
   projectName: 'mcrpg-docs', // Usually your repo name.
   themeConfig: {
@@ -20,7 +20,7 @@ module.exports = {
       title: 'RPG Docs',
       logo: {
         alt: 'Logo',
-        src: 'static/img/ExvoidNetworkPrefix.png',
+        src: '/img/ExvoidNetworkPrefix.png',
       },
       items: [],
     },
