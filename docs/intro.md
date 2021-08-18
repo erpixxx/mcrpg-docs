@@ -4,11 +4,13 @@ sidebar_position: 1
 slug: /
 ---
 
+:::note 
+
+Documentation is currently under progress and informations are currently missing.
+
 ## About
 
-Welcome to the Exvoid Network's RPG Minecraft sub-server documentation.
-
-This documentation compiles all of the commands for Skript.
+Welcome to the Exvoid Network's RPG Minecraft sub-server documentation, this documentation purpose is to compile all of the commands for Skript plugin.
 
 Documentation maintenained by Matou0014 & ErPiX.
 
