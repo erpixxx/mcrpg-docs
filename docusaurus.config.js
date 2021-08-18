@@ -41,7 +41,7 @@ module.exports = {
         docs: {
 			routeBasePath: '/',
 			sidebarPath: require.resolve('./sidebars.js'),
-			editUrl: 'https://github.com/ExvoidNet/mcrpg-docs/',
+			editUrl: 'https://github.com/ExvoidNet/mcrpg-docs/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
